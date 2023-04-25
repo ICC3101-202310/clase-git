@@ -11,4 +11,6 @@ El objetivo general del trabajo es bla bla bla, y para esto vamos a seguir la si
 
 ## Desarrollo
 
+Conforme a el objetivo del trabajo, vamos a bla bla bla. Para esto, partiremos analizando la situación actual de bla bla bla.
+
 ## Conclusión
