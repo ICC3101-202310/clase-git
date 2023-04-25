@@ -15,4 +15,10 @@ Conforme a el objetivo del trabajo, vamos a bla bla bla. Para esto, partiremos a
 
 Para partir vamos a bla bla bla.
 
+En primer lugar bla bla bla.
+
+En segundo lugar bla bla bla.
+
+En tercer lugar bla bla bla.
+
 ## Conclusión
